@@ -1,5 +1,9 @@
 title: International Planning Competition 2026
 description: IPC 2026
+color:
+  palette:
+    my_blue: "#0000FF"
+  background: my_blue
 theme: jekyll-theme-leap-day
 show_downloads: false
 github:
