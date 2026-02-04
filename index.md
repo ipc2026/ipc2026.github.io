@@ -13,14 +13,16 @@ All tracks will conclude together with ICAPS, in July 2026, in Dublin, Ireland.
 
 
 ## Classical Tracks
-Website: [https://ipc2026-classical.github.io](https://ipc2026-classical.github.io)
+<!-- Website: [https://ipc2026-classical.github.io](https://ipc2026-classical.github.io) -->
+Website: []()
 
 Organizers:
  - TBD
 
 
 ## Learning Tracks
-Website: [https://ipc2026-learning.github.io](https://ipc2026-learning.github.io)
+Website: []()
+<!-- Website: [https://ipc2026-learning.github.io](https://ipc2026-learning.github.io) -->
 
 Organizers:
  - TBD
@@ -43,8 +45,17 @@ Organizers:
  - [Enrico Scala](https://sites.google.com/view/enricoscalashomepage/) (University of Brescia)
 
 
+## Epistemic Tracks
+Website: [https://sites.google.com/view/epistemic-competition/](https://sites.google.com/view/epistemic-competition/)
+
+Organizers:
+ - [Alessandro Burigana](https://a-burigana.github.io/) (Free University of Bozen-Bolzano)
+ - [Francesco Fabiano](https://francescofabiano.github.io/) (University of Oxford)
+
+
 ## HTN Tracks
-Website: [https://ipc2026-htn.github.io](https://ipc2026-htn.github.io)
+<!-- Website: [https://ipc2026-htn.github.io](https://ipc2026-htn.github.io) -->
+Website: []()
 
 Organizers
  - TBD
